@@ -319,7 +319,9 @@ main {
 .sidebar__img {
     display: flex;
     align-items: center;
+    
 }
+
 
 .sidebar__title > div > img {
     width: 75px;
@@ -330,6 +332,7 @@ main {
 .sidebar__title > div > h1 {
     font-size: 18px;
     display: inline;
+    cursor: pointer;
 }
 
 .sidebar__title > i {
